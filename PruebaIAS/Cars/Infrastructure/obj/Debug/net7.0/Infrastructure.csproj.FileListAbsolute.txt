@@ -1,0 +1,5 @@
+C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
