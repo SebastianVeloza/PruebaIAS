@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQ0OtBSKvIZLhSXkKPXD8aoN/JsadYn+CNmPgrp+98FQEaDo2JzNL9chY0b0ZP9aorPmv/QKxgEXMAM2Ia4qug==",
+  "dgSpecHash": "Cso430ke2Gld9Vg6O0CBvmbJi+9XS6FqlXsyT/Z4EMgoTmIsiv/xr7shfFO68CFI3f78HtVzCvmVb7gakK5gpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sebas\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Sebas\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

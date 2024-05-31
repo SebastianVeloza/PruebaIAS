@@ -1,4 +1,7 @@
-﻿namespace WebApi
+﻿using Application;
+using Infrastructure;
+
+namespace WebApi
 {
     public static class DependencyInjection
     {
@@ -7,8 +10,12 @@
             services.AddControllers();
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
-            return services;    
-                
+
+            // Agrega la configuración para las capas de infraestructura y aplicación
+            services.AddInfrastructure();
+            services.AddApplication();
+
+            return services;
         }
     }
 }

@@ -10,18 +10,11 @@ using System.Threading.Tasks;
 
 namespace Application.Cars.Create
 {
-    public record CreateCarsCommand
-    (
-        string Modelo,
-        string Descripcion,
-        decimal Precio,
-        decimal Kilometraje,
-        int IdMarca,
-        string NombreMarca
-
-    ): IRequest<ErrorOr<Unit>>
-    { }
-
-
-    
+    public record CreateCarsCommand(
+     string Modelo,
+     string Descripcion,
+     decimal Precio,
+     decimal Kilometraje,
+     int IdMarca
+ ) : IRequest<ErrorOr<Unit>>;
 }

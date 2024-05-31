@@ -1,6 +1,7 @@
 ﻿using Application.Cars.Common;
 using Application.Data;
 using Domain.Cars;
+using Domain.Marca;
 using Domain.Primitives;
 using Infrastructure._Persistence;
 using Infrastructure.Repositories;
@@ -17,17 +18,22 @@ namespace Infrastructure
 {
     public static class DependencyInjection
     {
-        public static IServiceCollection AddInfrastructure(this IServiceCollection services)
+        public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddPersistence(configuration);
             return services;
         }
 
-        private static IServiceCollection AddPersistence(this IServiceCollection services, IConfiguration configuration) {
-            services.AddDbContext<ApplicationDbContext>(option => option.UseSqlServer(configuration.GetConnectionString("Database")));
-            services.AddScoped<IApplicationDbContext>(o=>o.GetRequiredService<ApplicationDbContext>());
-            services.AddScoped<IUnitOfWork>(o => o.GetRequiredService<ApplicationDbContext>());
+        private static IServiceCollection AddPersistence(this IServiceCollection services, IConfiguration configuration)
+        {
+            services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseSqlServer(configuration.GetConnectionString("Database")));
+
+            services.AddScoped<IApplicationDbContext>(provider => provider.GetRequiredService<ApplicationDbContext>());
+            services.AddScoped<IUnitOfWork>(provider => provider.GetRequiredService<ApplicationDbContext>());
             services.AddScoped<ICarsRepository, CarsRepository>();
+            services.AddScoped<IBrandRepository, MarcaRepository>();
+
             return services;
         }
     }

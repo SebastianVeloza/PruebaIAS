@@ -3,3 +3,8 @@ C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\Application\obj\Debug\net7.
 C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
 C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
 C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache

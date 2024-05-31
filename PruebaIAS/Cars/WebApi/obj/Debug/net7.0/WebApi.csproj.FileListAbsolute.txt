@@ -4,3 +4,9 @@ C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\WebApi\obj\Debug\net7.0\Web
 C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
 C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
 C:\Users\Sebas\Documents\WORKSPACE\c#\PruebaIAS\Cars\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Documents\WORKSPACE\c#\Nueva carpeta\PruebaIAS\PruebaIAS\Cars\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache

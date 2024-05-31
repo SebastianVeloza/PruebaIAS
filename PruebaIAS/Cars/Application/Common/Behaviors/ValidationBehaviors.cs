@@ -11,8 +11,8 @@ using System.Threading.Tasks;
 namespace Application.Common.Behaviors
 {
     public class ValidationBehaviors<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
-        where TRequest : IRequest<TResponse>
-        where TResponse : IErrorOr
+         where TRequest : IRequest<TResponse>
+         where TResponse : IErrorOr
     {
         private readonly IValidator<TRequest> _validator;
 
@@ -30,14 +30,15 @@ namespace Application.Common.Behaviors
 
             var validatorResult = await _validator.ValidateAsync(request, cancellationToken);
 
-            if (validatorResult.IsValid) {
+            if (validatorResult.IsValid)
+            {
                 return await next();
             }
 
-            var error = validatorResult.Errors.ConvertAll(falla =>
-            Error.Validation(falla.PropertyName, falla.ErrorMessage));
+            var errors = validatorResult.Errors.ConvertAll(failure =>
+                Error.Validation(failure.PropertyName, failure.ErrorMessage));
 
-            return (dynamic)error;
+            return (dynamic)errors;
         }
     }
 }

@@ -8,18 +8,16 @@ using System.Threading.Tasks;
 namespace Application.Cars.Common
 {
     public record CarsResponse(
-    
-        Guid idCarro,
-        string Modelo,
-        string Descripcion,
-        decimal kilometraje,
-        MarcaResponse Marca
-        );
+         Guid IdCarro,
+         string Modelo,
+         string Descripcion,
+         decimal Precio,
+         decimal Kilometraje,
+         MarcaResponse Marca
+     );
 
     public record MarcaResponse(
-            int idMarca,
-            string nombreMarca
-        );
-
-    
+        int IdMarca,
+        string NombreMarca
+    );
 }

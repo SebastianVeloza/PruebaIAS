@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Application\\Application.csproj": {
+    "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Domain\\Domain.csproj"
+              "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Domain\\Domain.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Domain\\Domain.csproj": {
+    "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -177,11 +177,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Application\\Application.csproj"
+              "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Application\\Application.csproj"
               },
-              "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Domain\\Domain.csproj"
+              "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Domain\\Domain.csproj"
               }
             }
           }
@@ -225,14 +225,14 @@
         }
       }
     },
-    "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Sebas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -250,11 +250,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Application\\Application.csproj"
+              "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Application\\Application.csproj"
               },
-              "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Sebas\\Documents\\WORKSPACE\\c#\\Nueva carpeta\\PruebaIAS\\PruebaIAS\\Cars\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

@@ -12,16 +12,16 @@ namespace Application
 {
     public static class DependencyInjection
     {
-        public static IServiceCollection addApplication(this IServiceCollection services)
+        public static IServiceCollection AddApplication(this IServiceCollection services)
         {
             services.AddMediatR(configuration =>
             {
                 configuration.RegisterServicesFromAssemblyContaining<ApplicationAssemblyReference>();
             });
 
-            services.AddScoped(typeof(IPipelineBehavior<,>),typeof(ValidationBehaviors<,>));
-
+            services.AddScoped(typeof(IPipelineBehavior<,>), typeof(ValidationBehaviors<,>));
             services.AddValidatorsFromAssemblyContaining<ApplicationAssemblyReference>();
+
             return services;
         }
     }
